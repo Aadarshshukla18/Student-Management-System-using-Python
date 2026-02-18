@@ -1,9 +1,9 @@
-## Student Management System (Python) --> -->
+# Student Management System (Python) --> -->
 
 A command-line based Student Management System built using Python.
 This project performs CRUD operations using CSV file handling.
 
-# Features
+## Features
 - Add Student
 - View Students
 - Search Student
@@ -23,5 +23,6 @@ This project performs CRUD operations using CSV file handling.
 
 ## Author
 Aadarsh Shukla (Data Scientist)
+
 
 
